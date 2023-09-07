@@ -9,13 +9,12 @@
 - **More...**
 <a href="https://www.instagram.com/lim.fluencer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23E4405F"/></a>
 
-<br/>
 ## My BOE Stat
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr428)](https://solved.ac/dnjstjr428)
 
-<br/>
 ## GitHub Stat
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wslim98&show_icons=true&theme=github_dark)
+
 
 
 
