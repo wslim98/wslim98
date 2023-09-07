@@ -4,7 +4,6 @@
 - **Birth date:** 1998.04.28
 - **University:** SangMyung University
 - **Major:** Software (4th grade)
-
 - **More...**
 
 
