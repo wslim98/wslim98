@@ -4,8 +4,9 @@
 - **Birth date:** 1998.04.28
 - **University:** SangMyung University
 - **Major:** Software (4th grade)
-- **More...**
-<a href="https://www.instagram.com/lim.fluencer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+- **More...**<br>
+<a href="https://www.instagram.com/lim.fluencer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=#833AB4"/></a>
+
 
 
 
