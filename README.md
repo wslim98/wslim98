@@ -9,8 +9,9 @@
 - **More...**
 <a href="https://www.instagram.com/lim.fluencer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23E4405F"/></a><br/><br/><br/><br/>
 
+<!--
 <a href="https://github.com/wslim98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wslim98&layout=compact&theme=nord&hide_border=true" /></a> 
-
+-->
 
 
 ## My BOE Stat 💻
