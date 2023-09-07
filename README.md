@@ -6,10 +6,8 @@
 - **Major:** Software (4th grade)
 - **More...**
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23833AB4)](https://www.instagram.com/lim.fluencer/)
 
-<a href="https://www.instagram.com/lim.fluencer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=
-#833AB4
-"/></a>
 
 
 
