@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
 <!-- AI & Database -->
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+<!-- IDE -->
+<img src="https://img.shields.io/badge/Visual%20Studio-FF6F00?style=flat&logo=visualstudio&logoColor=white"/>
 <br/><br/>
 
 ### Learning 📖
