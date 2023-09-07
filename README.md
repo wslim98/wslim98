@@ -9,6 +9,8 @@
 - **More...**
 <a href="https://www.instagram.com/lim.fluencer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white&color=%23E4405F"/></a><br/><br/><br/><br/>
 
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
+
 ## My BOE Stat 💻
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr428)](https://solved.ac/dnjstjr428)<br/><br/>
 
