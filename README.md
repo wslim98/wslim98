@@ -11,12 +11,10 @@
 
 <br/>
 ## My BOE Stat
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr428)](https://solved.ac/dnjstjr428)
 
 <br/>
 ## GitHub Stat
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wslim98&show_icons=true&theme=github_dark)
 
 
