@@ -33,7 +33,7 @@
 <!--
 <a href="https://github.com/wslim98"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wslim98&layout=compact&theme=nord&hide_border=true" /></a> 
 -->
-## My BOE Stat 💻
+## BOE Stat 💻
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjstjr428)](https://solved.ac/dnjstjr428)<br/><br/>
 
 ## GitHub Stat 💻
