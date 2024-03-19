@@ -6,7 +6,7 @@
 - **Birth Date:** 1998.04.28
 - **Blood Type:** A(RH+)
 - **University:** SangMyung University
-- **Major:** Software (4th grade)
+- **Major:** Software
 - **GPA(Total,Major):** 4.21/4.5, 4.18/4.5
 - **MBTI:** ESTJ
 - **More...**
